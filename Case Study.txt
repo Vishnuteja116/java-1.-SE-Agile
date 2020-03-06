@@ -1,0 +1,6 @@
+Understand the scope of the project and analysis with your team members with following results.
+1)	SRS document
+2)	Use case Diagrams
+3)	Spring Planning document
+4)             And other documents based on the requirement.
+
